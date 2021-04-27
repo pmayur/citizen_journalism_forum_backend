@@ -21,7 +21,7 @@
     "express-session": "^1.16.2",
     "moment": "^2.24.0",
     "mysql": "^2.17.1",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "uniqid": "^5.0.3"
   },
   "devDependencies": {
